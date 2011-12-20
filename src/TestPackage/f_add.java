@@ -11,6 +11,6 @@ public class f_add {
         int c = 5;
         int a = 4;
         c = c + a;
-        System.out.println("Ganba : "+c);
+        System.out.println("intellij : "+c);
     }
 }
